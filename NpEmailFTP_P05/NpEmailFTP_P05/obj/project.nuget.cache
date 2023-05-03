@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "OCUZigZnnJwKSYs3diPVMXhFMw8hPf9ZAC+pgsuiA7izyEBkKaTVlDCkTELMO1DAhDgAn3N5nEgnwmVk6jbt1A==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Downloads\\NpEmailFTP_P05\\NpEmailFTP_P05\\NpEmailFTP_P05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andriikhylko\\.nuget\\packages\\bouncycastle.cryptography\\2.1.1\\bouncycastle.cryptography.2.1.1.nupkg.sha512",
+    "C:\\Users\\andriikhylko\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\andriikhylko\\.nuget\\packages\\mailkit\\4.0.0\\mailkit.4.0.0.nupkg.sha512",
+    "C:\\Users\\andriikhylko\\.nuget\\packages\\mimekit\\4.0.0\\mimekit.4.0.0.nupkg.sha512",
+    "C:\\Users\\andriikhylko\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Users\\andriikhylko\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\andriikhylko\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.2\\system.security.cryptography.pkcs.6.0.2.nupkg.sha512",
+    "C:\\Users\\andriikhylko\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
